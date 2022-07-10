@@ -1,5 +1,5 @@
-# - [ ] DSA Sheet 
-## - [ ]  ARRAYS
+# :black_square_button: DSA Sheet 
+## :black_square_button:  ARRAYS
 - [ ] Find 2 elements with given sum
 - [ ] Majority Element
 - [ ] Find the number occuring odd number of times
@@ -23,7 +23,7 @@
 - [ ] Trapping rain water
 - [ ] Merge 2 sorted arrays in O(1) space
 
-## - [ ] STRINGS
+## :black_square_button: STRINGS
 - [ ] Remove duplicates from string
 - [ ] Remove characters from the first string which are present in the second string
 - [ ] Check if strings are rotations of each other
@@ -35,7 +35,7 @@
 - [ ] Rearrange a string so that similar characters become d distance away
 - [ ] Find excel column name from a given column number
 
-## - [ ] LINKED LIST
+## :black_square_button: LINKED LIST
 - [ ] Get Nth node in a linked list
 - [ ] Delete a node given a pointer to it
 - [ ] Print middle
@@ -61,7 +61,7 @@
 - [ ] Add 2 numbers represented by linked lists
 - [ ] Clone a linked list with next and random pointer | Set 2
 
-## - [ ] TREES
+## :black_square_button: TREES
 - [ ] Recursive Tree Traversals
 - [ ] Calculate size of tree
 - [ ] Check if two trees are identical
@@ -104,7 +104,7 @@
 - [ ] Advantages of BST over hash table
 - [ ] Kth smallest element in BST using O(1) space
 
-## - [ ] STACK
+## :black_square_button: STACK
 
 - [ ] Implement queue using stack
 - [ ] Check for balanced parentheses in an expression
@@ -113,7 +113,7 @@
 - [ ] Implement stack using queues
 - [ ] Expression evaluation
 
-## - [ ] GRAPH
+## :black_square_button: GRAPH
 - [ ] Applications of MST
 - [ ] Applications of DFS
 - [ ] DFS
@@ -136,7 +136,7 @@
 - [ ] Connectivity in directed graph
 - [ ] Detect cycle in an undirected graph 2
 - [ ] Applications of BFS
-## - [ ] MATRIX
+## :black_square_button: MATRIX
 
 - [ ] Maximum size square submatrix with all 1s
 - [ ] Turn an image by 90 degree
@@ -150,7 +150,7 @@
 - [ ] Rotate matrix clockwise
 - [ ] Given a boolean matrix. Find k such that all elements in the kth row are 0 and the - k th column are 1
 - [ ] Maximum size rectangle binary submatrix with all 1s
-## - [ ] QUEUE
+## :black_square_button: QUEUE
 - [ ] Level order traversal
 - [ ] Spiral level order traversal
 - [ ] Implement queue using stacks
@@ -159,7 +159,7 @@
 - [ ] First circular tour that visits all petrol pumps
 - [ ] Iterative height of binary tree
 
-## - [ ] HEAP
+## :black_square_button: HEAP
 
 - [ ] k largest elements in an array
 - [ ] Applications of heap
@@ -173,7 +173,7 @@
 - [ ] kth largest element in stream -> Zupee
 - [ ] Why prefer heap over BST for priority queue
 
-## - [ ] HASHING
+## :black_square_button: HASHING
 
 - [ ] Check for pair in array with sum as x
 - [ ] Vertical sum in binary tree
@@ -184,7 +184,7 @@
 - [ ] Find itinerary from a given list of tickets
 - [ ] Largest subarray with 0 sum
 
-## - [ ] BST
+## :black_square_button: BST
 
 - [ ] Find min element
 - [ ] Check if binary tree is BST -> McKinsey
@@ -194,7 +194,7 @@
 - [ ] Construct BST from given preorder traversal
 - [ ] Construct BST from given preorder traversal | Set 2
 
-## - [ ] PUZZLES
+## :black_square_button: PUZZLES
 
 - [ ] Measure 1 litre using 2 vessels and infinite water supply( This problem is not a - sked to be coded. It is asked only as a puzzle. See this too )
 - [ ] 2 eggs 100 floors 
