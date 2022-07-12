@@ -65,7 +65,12 @@ pincodes.setdefault('RP',4113)  # Returns the value of a key (if the key is in d
 print(pincodes.get('RP'))
 print(pincodes)
 
+# Traversing a dictionary
+for key, val in pincodes.items():
+    print(pincodes[key])
+
+for i in pincodes:
+    print(pincodes[i])
 
 pincodes.clear() # Clears list
 print(pincodes)
-

@@ -18,3 +18,15 @@ def SwitchExample(argument):
     return switcher.get(argument, "default case")
 
 print(SwitchExample(0))
+
+# Match can also be used as a swtich case. You don't need to put a break after every case
+# Match was introduced in python 3.10
+
+# points =10
+# match points:
+#     case 1:
+#         print("Try Again")
+#     case 5:
+#         print("well played")
+#     case 10:
+#         print("New highscore")
