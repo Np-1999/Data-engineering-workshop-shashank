@@ -1,3 +1,4 @@
+# https://www.geeksforgeeks.org/python-functions/
 from typing import List
 
 
@@ -54,3 +55,21 @@ def first_2k(list_a) -> None:
     list_a = [123,456] # This is reassignment # This statement will have no effect outside this function as assignment operator will create a new refrence and have its local scope stored in list_a.
 first_2k(list_a)
 print(list_a)
+
+# Anonymous functions
+# Function defined with lambda keyword
+# will discuss this in lambda functions
+cube = lambda x: x*x*x
+print(cube(5))
+
+
+# Inner functions
+# inner function has access to all the members of outer function (Need to test this claim)
+
+def outer():
+    a =10 
+    def inner():
+        print(a)
+    inner()
+
+outer()
