@@ -5,7 +5,7 @@
 - [ ] Tuple
 - [x] Dictionary
 - [ ] OOPs
-- [ ] Set
+- [x] Set
 - [ ] Lambda-Functions
 - [ ] Regex
 - [ ] DM-Library-Pandas
