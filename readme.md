@@ -2,11 +2,11 @@
 - [x] Conditions
 - [x] Functions
 - [ ] List-Comprehension
-- [ ] Tuple
+- [x] Tuple
 - [x] Dictionary
 - [ ] OOPs
 - [x] Set
-- [ ] Lambda-Functions
+- [x] Lambda-Functions
 - [ ] Regex
 - [ ] DM-Library-Pandas
 - [ ] DM-Library-Numpy
