@@ -1,7 +1,7 @@
 # :black_square_button: Python
 - [x] Conditions
 - [x] Functions
-- [ ] List-Comprehension
+- [x] List-Comprehension
 - [x] Tuple
 - [x] Dictionary
 - [ ] OOPs
