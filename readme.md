@@ -7,7 +7,7 @@
 - [ ] OOPs
 - [x] Set
 - [x] Lambda-Functions
-- [ ] Regex
+- [x] Regex
 - [ ] DM-Library-Pandas
 - [ ] DM-Library-Numpy
 
