@@ -14,7 +14,7 @@
 # :black_square_button: DSA Sheet 
 ## :black_square_button:  ARRAYS
 - [x] [Find 2 elements with given sum] (http://www.geeksforgeeks.org/write-a-c-program-that-given-a-set-a-of-n-numbers-and-another-number-x-determines-whether-or-not-there-exist-two-elements-in-s-whose-sum-is-exactly-x/)
-- [ ] Majority Element
+- [x] Majority Element (https://www.geeksforgeeks.org/majority-element/)
 - [ ] Find the number occuring odd number of times
 - [ ] Merge an array of size n into another of size m + n
 - [ ] Rotate an array
