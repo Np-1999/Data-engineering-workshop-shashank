@@ -19,7 +19,7 @@
 - [ ] Merge an array of size n into another of size m + n
 - [ ] Rotate an array
 - [ ] Leaders in an array
-- [ ] Majority element in sorted array
+- [x] Majority element in sorted array (http://www.geeksforgeeks.org/check-for-majority-element-in-a-sorted-array/)
 - [ ] Segregate 0s and 1s in an array
 - [ ] Product array
 - [ ] Find 2 repeating elements
